@@ -1,0 +1,4 @@
+kernel    vmlinuz-3.13.11-ckt30
+kernelsig vmlinuz-3.13.11-ckt30.sig
+initrd    initrd.img-3.13.11-ckt30
+initrdsig initrd.img-3.13.11-ckt30.sig
